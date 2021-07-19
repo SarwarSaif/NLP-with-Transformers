@@ -20,6 +20,7 @@ In this repository, I'll collect and practiced the neccessary topics related to 
 <a href="https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853" target="_blank">Transformers Explained Visually (Part 3): Multi-head Attention, deep dive </a><br/>
 <a href="https://towardsdatascience.com/master-positional-encoding-part-i-63c05d90a0c3
 https://kazemnejad.com/blog/transformer_architecture_positional_encoding/" target="_blank">Master Positional Encoding: Part I </a><br/>
+<a href="https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html" target="_blank">Sequence to Sequence (seq2seq) and Attention</a><br/>
 <a href="https://www.kaggle.com/rhtsingh/swa-apex-amp-interpreting-transformers-in-torch" target="_blank">SWA-LP & Interpreting Transformer Interactively</a><br/>
 
 [google-colab]: https://img.shields.io/badge/notebook-colab%20notebook-orange 
