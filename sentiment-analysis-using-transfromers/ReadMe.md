@@ -20,6 +20,14 @@ Example:
 
 Note: It can be possible to change the Number of Output Classes to fit our number of desired classes in the head module. 
 
+### Long Text Classification 
+"Texts which have a length more than the model token size."
+Most of the cases sentences are much longer than 512 tokens and the actual sentiment from the sentence may not be clear from the first 512 tokens. So we really want to consider the full sentence.
+
+We can basically take two approaches to overcome this problem:
+
+1. By summarizing the whole sentence into 512 tokens and then using sentiment classification.
+2. Or by using a window and then calculating the sentiment for each window in a sentence.
 
 [google-colab]: https://img.shields.io/badge/notebook-colab%20notebook-orange 
 [python]: https://img.shields.io/badge/python-3.7-blue
